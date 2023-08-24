@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Allow: sitemap.xml
+Allow: sitemap.html
+
+Sitemap: https://an3tshops.000webhostapp.com/sitemap.xml

@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule "index.html" "index.php"
+
+RewriteRule "^san-pham/([0-9]+).html$" "product.php?id=$1"
